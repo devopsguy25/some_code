@@ -2,4 +2,4 @@
 echo "this script is from github"
 sum=$(($a + $b))
 echo "$sum"
-echo "addition done"
+echo "addition done well"
